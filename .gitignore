@@ -1,0 +1,5 @@
+constraint_js/*.js
+constraint_js/*.wtns
+constraint_js/*.wasm
+*.r1cs
+*.sym
