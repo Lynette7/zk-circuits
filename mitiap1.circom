@@ -18,7 +18,7 @@ template Example () {
 
 component main { public [ out ] } = Example();
 
-/* INPUT = {
+INPUT = {
     "x1" : "6",
     "x2" : "4",
     "x3" : "5",
@@ -26,4 +26,4 @@ component main { public [ out ] } = Example();
     "y1" : "10",
     "y2" : "2",
     "out" : "1"
-} */
+}
